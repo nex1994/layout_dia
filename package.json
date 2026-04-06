@@ -2,7 +2,7 @@
   "name": "dia",
   "version": "1.0.0",
   "description": "Dia landing page",
-  "homepage": "layout_dia",
+  "homepage": "/layout_dia/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
